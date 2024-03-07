@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+H2 {
+    font-family: 'Trebuchet MS';
+}
+
+.text {
+    font-family: 'victor mono', Arial, tim;
+}
+
+#paragrafo02 {
+    font-family: fantasy;
+}
+
+#estilo01 {
+    font-style: italic;
+}
+
+#estilo02 {
+    font-style: oblique;
+}
+
+#peso01 {
+    font-weight: bold;
+}
+
+#peso02 {
+    font-family: 'Trebuchet MS';
+    font-weight: 900;
+}
+
+#fonte01 {
+    font-family: 'Dancing Script';
+}
+
+.tamanho01 {
+    font-size: 24px;
+}
+
+.tamanho02 {
+    font-size: 24pt;
+}
+
+.tamanho03 {
+    font-size: 0.5em;
+}
+.tamanho04 {
+    font-size: 0.5rem;
+}
+
+.variante01 {
+    font-variant: small-caps;
+}
+
+.linha-altura {
+    line-height: 30px;
+}
+
+.espaco-letra {
+    letter-spacing: 30px;
+}
+
+.espaco-palavra {
+    word-spacing: 30px;
+}
+
+.alinhamento {
+    text-align: right;
+}
+
+.decorado {
+    text-decoration: underline;
+    text-decoration-line: line-through;
+    text-decoration-color: rebeccapurple;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+}
+
+.identa {
+    text-indent: -19px;
+}
+
+.transforma {
+    text-transform: uppercase;
+}
+
+.sombra {
+    text-shadow: 100px 10px 2px red;
+}
+
+.lista01 {
+    list-style: symbols();
+}
